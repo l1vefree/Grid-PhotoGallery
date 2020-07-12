@@ -1,2 +1,2 @@
 # Grid-PhotoGallery
-A quick little display of css grid to display a gallery
+A quick little display of css grid with hover effects to display a gallery.
